@@ -1,1 +1,1 @@
-# invoice-v1
+# invoice
